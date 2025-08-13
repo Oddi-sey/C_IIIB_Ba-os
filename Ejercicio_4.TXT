@@ -1,0 +1,7 @@
+1.git init: Este es para iniciar git
+2.git status: Este es para saber el estado de git
+3.git add .: Este es para  archivos
+4.git commit -m "first commit": Este es para saber el estado del cambio
+5.git branch -M main: Este es para agregar en la rama main
+6.git remote add origin https://github.com/Oddi-sey/nada.git: Este es el link al que se sube
+7.git push -u origin main: Este es para guardar y subir a git 
